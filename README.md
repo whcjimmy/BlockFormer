@@ -1,7 +1,7 @@
 # BlockFormer: An Efficient Private Batch Transformer Inference with Homomorphic Encryption via Block Packing
 
 This repository contains the implementation of the paper **BlockFormer: An Efficient Private Batch Transformer Inference with Homomorphic Encryption via Block Packing**.
-The paper was accepted at the IEEE Access, available [here]().
+The paper was accepted at the IEEE Access, available [here](https://ieeexplore.ieee.org/document/11517379).
 
 ## Prerequests
 1. Git & Docker
